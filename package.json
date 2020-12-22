@@ -1,0 +1,18 @@
+{
+  "name": "raf-thenable",
+  "version": "1.0.0",
+  "description": "requestAnimationFrame wrapper to PromiseLike interface",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingo347/raf-thenable.git"
+  },
+  "keywords": ["requestAnimationFrame", "Promise", "raf"],
+  "author": "Dmitriy Belyaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bingo347/raf-thenable/issues"
+  },
+  "homepage": "https://github.com/bingo347/raf-thenable#readme"
+}
