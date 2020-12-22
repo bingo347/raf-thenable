@@ -9,7 +9,7 @@ interface CancelableRAFPromise extends Promise<number> {
 
 interface ThenableRAF extends PromiseLike<number> {
     /**
-     * requestAnimationFrame wrapper/polyfill
+     * requestAnimationFrame wrapper
      *
      * @param callback it will be executed directly in the animation frame (before rendering)
      * @returns Promise with cancel method, it resolved in nearest microtask after animation frame (and after rendering)
